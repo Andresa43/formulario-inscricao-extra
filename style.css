@@ -200,3 +200,7 @@ footer .button {
     border-radius: 20px;
     border: 0;
 }
+
+footer .button:hover{
+    background-color: #d87d8f;
+}
